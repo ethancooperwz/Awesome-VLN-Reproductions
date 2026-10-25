@@ -10,9 +10,9 @@
 | NaVILA | 2025 | RSS | — | 🚧 进行中 | — |
 | OmniVLA | 2026 | ICRA | — | ⏳ 计划中 | — |
 | Agile But Safe | 2024 | RSS | — | ⏳ 计划中 | — |
-| FutureNav | — | — | — | ⏳ 计划中 | — |
-| MobileVLA-R1 | — | — | — | ⏳ 计划中 | — |
-| PanoVLN | — | — | — | ⏳ 计划中 | — |
+| FutureNav | 2026 | arXiv | — | ⏳ 计划中 | — |
+| MobileVLA-R1 | 2026 | ECCV | — | ⏳ 计划中 | — |
+| PanoVLN | 2026 | arXiv | — | ⏳ 计划中 | — |
 
 ## 状态说明
 
