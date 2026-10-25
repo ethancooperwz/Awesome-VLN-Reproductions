@@ -4,9 +4,9 @@
 
 ## 论文复现列表
 
-| 论文 | 年份 | 数据集 | 状态 | 复现仓库 |
-| --- | ---: | --- | --- | --- |
-| StreamVLN | 2025 | R2R-CE、RxR-CE | ✅ 已完成推理与评测笔记 | [StreamVLN Reproduction Notes](https://github.com/ethancooperwz/StreamVLN-Reproduction-Notes) |
+| 论文 | 发表年份 | 文章级别 | 数据集 | 状态 | 复现仓库 |
+| --- | ---: | --- | --- | --- | --- |
+| StreamVLN | 2026 | ICRA 2026 | R2R-CE、RxR-CE | ✅ 已完成推理与评测笔记 | [StreamVLN Reproduction Notes](https://github.com/ethancooperwz/StreamVLN-Reproduction-Notes) |
 
 ## 状态说明
 
