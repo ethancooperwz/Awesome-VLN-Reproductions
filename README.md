@@ -4,9 +4,15 @@
 
 ## 论文复现列表
 
-| 论文 | 发表年份 | 文章级别 | 数据集 | 状态 | 复现仓库 |
+| 论文 | 年份 | 级别 | 数据集 | 状态 | 复现 |
 | --- | ---: | --- | --- | --- | --- |
-| StreamVLN | 2026 | ICRA 2026 | R2R-CE、RxR-CE | ✅ 已完成推理与评测笔记 | [StreamVLN Reproduction Notes](https://github.com/ethancooperwz/StreamVLN-Reproduction-Notes) |
+| StreamVLN | 2026 | ICRA | R2R-CE、RxR-CE | ✅ 已完成 | [复现笔记](https://github.com/ethancooperwz/StreamVLN-Reproduction-Notes) |
+| NaVILA | 2025 | RSS | — | 🚧 进行中 | — |
+| OmniVLA | 2026 | ICRA | — | ⏳ 计划中 | — |
+| Agile But Safe | 2024 | RSS | — | ⏳ 计划中 | — |
+| FutureNav | — | — | — | ⏳ 计划中 | — |
+| MobileVLA-R1 | — | — | — | ⏳ 计划中 | — |
+| PanoVLN | — | — | — | ⏳ 计划中 | — |
 
 ## 状态说明
 
