@@ -7,7 +7,7 @@
 | 论文 | 年份 | 级别 | 数据集 | 状态 | 复现 |
 | --- | ---: | --- | --- | --- | --- |
 | StreamVLN | 2026 | ICRA | R2R-CE、RxR-CE | ✅ 已完成 | [复现笔记](https://github.com/ethancooperwz/StreamVLN-Reproduction-Notes) |
-| NaVILA | 2025 | RSS | — | 🚧 进行中 | — |
+| NaVILA | 2025 | RSS | — | 🚧 进行中 | [复现笔记](https://github.com/ethancooperwz/NaVILA-Reproduction-Notes) |
 | OmniVLA | 2026 | ICRA | — | ⏳ 计划中 | — |
 | Agile But Safe | 2024 | RSS | — | ⏳ 计划中 | — |
 | FutureNav | 2026 | arXiv | — | ⏳ 计划中 | — |
